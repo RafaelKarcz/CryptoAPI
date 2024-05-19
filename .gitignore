@@ -1,3 +1,10 @@
+# Ignore everything
+*
+
+# Except these files
+!data_collector.ipynb
+!data_visualizer.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
