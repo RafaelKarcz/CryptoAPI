@@ -13,8 +13,8 @@ This project consists of two main parts:
 
 The project includes the following files:
 
-- `data_collector.ipynb`: Collects and saves cryptocurrency data.
-- `data_visualizer.ipynb`: Loads, processes, and visualizes the collected data.
+- `data_collector.ipynb <data_collector.ipynb>`_: Collects and saves cryptocurrency data.
+- `data_visualizer.ipynb <ata_visualizer.ipynb>`_: Loads, processes, and visualizes the collected data.
 
 Environment Setup
 -----------------
